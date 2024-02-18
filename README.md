@@ -16,7 +16,7 @@ Para evitar surpresas, sempre verifique os custos atuais da sua subscription. Na
 ## Defina o orçamento e configure um alerta
 Na página do Cost Analysis, selecione a opção **Budgets** e na barra superior à direita do campo de pesquisa clique em **+ Add**. Defina um nome para, o período de vigência (por exemplo, se você quer gastar U$ 10.00 por mês, selecione a opção **Monthly** ou **Mensal** de acordo com o idioma configurado.) e clique em Next. Em **Alert Conditions** selecione a opção **Actual** para que o alerta seja referente ao valor que já foi gastou ou **Forecasted** para que o alerta seja referente ao valor previsto baseado na projeção conforme a sua utilização. Recomento criar os dois. Em **Alert recipients (email)** informe a conta de e-mail na qual você deseja receber os alertas.
 
-![](https://github.com/jeffersonmoreira-ti/azureml/blob/main/assets/images/Budget.gif)
+![](https://github.com/jeffersonmoreira-ti/azureml/blob/main/assets/images/gif/Budget.gif)
 
 ## Acesse o Machine Learning Studio
 Os recursos de Machine Learning do Azure estão disponíveis em uma outra paǵina. Para acessá-la, acesse o link [https://ml.azure.com](https://ml.azure.com). O usuário e a senha são os mesmos da sua conta na Azure. No primeiro acesso você precisará criar um novo workspace.
